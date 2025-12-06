@@ -1,3 +1,3 @@
 # test-repo
 
-This is a line.
+This is an awesome line.
